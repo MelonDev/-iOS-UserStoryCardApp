@@ -1,0 +1,6 @@
+framework module Pods_UserStory {
+  umbrella header "Pods-UserStory-umbrella.h"
+
+  export *
+  module * { export * }
+}
